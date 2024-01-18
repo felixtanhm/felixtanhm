@@ -1,7 +1,7 @@
 # 👋 Hey there
 
 <div align="justify">
-    My name is Felix and I'm a budding Software Engineer. In my past life, I've built software with NoCode tools (WeWeb and Xano) and integrated with various third-party platforms (Stripe, Slack, etc.). Right now, my focus is on learning web development, going through the curriculum in <a href="https://www.theodinproject.com/paths/full-stack-javascript">The Odin Project</a> and Codecademy. 
+    My name is Felix. I'm a lifelong learner, inconsistent reader, and tryhard autodidact. I'm also a budding Software Engineer. In my past life, I've built software with NoCode tools (WeWeb and Xano) and integrated with various third-party platforms (Stripe, Slack, etc.). Right now, my focus is on learning web development, going through the curriculum in <a href="https://www.theodinproject.com/paths/full-stack-javascript">The Odin Project</a>, Codecademy and taking @joshwcomeau's <a href="https://www.theodinproject.com/paths/full-stack-javascript">courses</a>. 
     <br/> <br/>
 In my free time, I enjoy being in the ⛰️ mountains and 🧗 rock climbing. 
 </div>
