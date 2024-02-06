@@ -9,8 +9,9 @@ In my free time, I enjoy being in the ⛰️ mountains and 🧗 rock climbing.
 <br/><a href="https://www.linkedin.com/in/felixtanhm"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="mailto:felixtanhm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 
-# 🔧 Technologies & Tools
+## 🔧 Technologies & Tools
 
+<h3>🪄 Client</h3>
 <table>
   <tr>
     <td align="center" height="108" width="108">
@@ -18,20 +19,20 @@ In my free time, I enjoy being in the ⛰️ mountains and 🧗 rock climbing.
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
         width="48"
         height="48"
-        alt="React"
+        alt="HTML5"
       />
-      <br /><strong>React</strong>
+      <br /><strong>HTML5</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
         width="48"
         height="48"
-        alt="Next.js"
+        alt="CSS3"
       />
-      <br /><strong>Next.js</strong>
+      <br /><strong>CSS3</strong>
     </td>
-    <td align="center" height="108" width="108">
+        <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
         width="48"
@@ -42,18 +43,149 @@ In my free time, I enjoy being in the ⛰️ mountains and 🧗 rock climbing.
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
         width="48"
         height="48"
-        alt="Material UI"
+        alt="React JS"
       />
-      <br /><strong>Material UI</strong>
+      <br /><strong>React JS</strong>
+    </td>
+        <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+        width="48"
+        height="48"
+        alt="Next JS"
+      />
+      <br /><strong>Next JS</strong>
     </td>
   </tr>
 </table>
 
+<h3>🗃️ Server & Databases</h3>
+<table>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        width="48"
+        height="48"
+        alt="Next JS"
+      />
+      <br /><strong>Next JS</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+        width="48"
+        height="48"
+        alt="Node JS"
+      />
+      <br /><strong>Node JS</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+        width="48"
+        height="48"
+        alt="Express JS"
+      />
+      <br /><strong>Express JS</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        width="48"
+        height="48"
+        alt="Firebase"
+      />
+      <br /><strong>Firebase</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+        width="48"
+        height="48"
+        alt="Supabase"
+      />
+      <br /><strong>Supabase</strong>
+    </td>
+  </tr>
+  <tr>  
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+        width="48"
+        height="48"
+        alt="PostgreSQL"
+      />
+      <br /><strong>PostgreSQL</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+        width="48"
+        height="48"
+        alt="MongoDB"
+      />
+      <br /><strong>MongoDB</strong>
+    </td>
+  </tr>
+</table>
 
-# 📈 Stats
+<h3>🛠️ Tools</h3>
+<table>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        width="48"
+        height="48"
+        alt="Git"
+      />
+      <br /><strong>Git</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+        width="48"
+        height="48"
+        alt="Vite"
+      />
+      <br /><strong>Vite</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+        width="48"
+        height="48"
+        alt="Netlify"
+      />
+      <br /><strong>Netlify</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        width="48"
+        height="48"
+        alt="Vercel"
+      />
+      <br /><strong>Vercel</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+        width="48"
+        height="48"
+        alt="Cloudflare"
+      />
+      <br /><strong>Cloudflare</strong>
+    </td>
+  </tr>
+</table>
+
+## 📈 Stats
+
 <img
   src="https://github-readme-streak-stats.herokuapp.com?user=felixtanhm&theme=dark"
 />
