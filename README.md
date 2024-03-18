@@ -7,9 +7,6 @@ This README is a WIP and some links are broken :)
 In my free time, I enjoy being in the ⛰️ mountains and 🧗 rock climbing. 
 </div>
 
-<br/><a href="https://www.linkedin.com/in/felixtanhm"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-<a href="mailto:felixtanhm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
-
 ## 🔧 Technologies & Tools
 
 <h3>🪄 Client</h3>
@@ -60,33 +57,12 @@ In my free time, I enjoy being in the ⛰️ mountains and 🧗 rock climbing.
       />
       <br /><strong>React JS</strong>
     </td>
-
-  </tr>
-  <tr>    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-        width="48"
-        height="48"
-        alt="Next JS"
-      />
-      <br /><strong>Next JS</strong>
-    </td>
-
   </tr>
 </table>
 
 <h3>🗃️ Server & Databases</h3>
 <table>
   <tr>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-        width="48"
-        height="48"
-        alt="Next JS"
-      />
-      <br /><strong>Next JS</strong>
-    </td>
     <td align="center" height="108" width="108">
       <img
         src="./assets/felixtanhm-node-js.png"
@@ -104,35 +80,6 @@ In my free time, I enjoy being in the ⛰️ mountains and 🧗 rock climbing.
         alt="Express JS"
       />
       <br /><strong>Express JS</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="./assets/felixtanhm-firebase.png"
-        width="48"
-        height="48"
-        alt="Firebase"
-      />
-      <br /><strong>Firebase</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-        width="48"
-        height="48"
-        alt="Supabase"
-      />
-      <br /><strong>Supabase</strong>
-    </td>
-  </tr>
-  <tr>  
-    <td align="center" height="108" width="108">
-      <img
-        src="./assets/felixtanhm-postgres-sql.png"
-        width="48"
-        height="48"
-        alt="PostgreSQL"
-      />
-      <br /><strong>PostgreSQL</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -179,33 +126,13 @@ In my free time, I enjoy being in the ⛰️ mountains and 🧗 rock climbing.
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+        src="./assets/felixtanhm-netlify.png"
         width="48"
         height="48"
         alt="Netlify"
       />
       <br /><strong>Netlify</strong>
     </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-        width="48"
-        height="48"
-        alt="Vercel"
-      />
-      <br /><strong>Vercel</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-        width="48"
-        height="48"
-        alt="Cloudflare"
-      />
-      <br /><strong>Cloudflare</strong>
-    </td>
-  </tr>
-  <tr>
       <td align="center" height="108" width="108">
       <img
         src="./assets/felixtanhm-webpack.png"
@@ -217,22 +144,24 @@ In my free time, I enjoy being in the ⛰️ mountains and 🧗 rock climbing.
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+        src="./assets/felixtanhm-vite.png"
         width="48"
         height="48"
         alt="Vite"
       />
       <br /><strong>Vite</strong>
-    </td>
-            <td align="center" height="108" width="108">
-      <img
+    </td>  
+    </tr>
+    <tr>
+      <td align="center" height="108" width="108">
+        <img
         src="./assets/felixtanhm-postman.png"
         width="48"
         height="48"
         alt="Postman"
-      />
+        />
       <br /><strong>Postman</strong>
-    </td>
+      </td>
     </tr>
 </table>
 
