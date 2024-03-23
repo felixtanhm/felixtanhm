@@ -8,161 +8,21 @@ In my free time, I enjoy being in the ⛰️ mountains and 🧗 rock climbing.
 
 ## 🔧 Technologies & Tools
 
-<h3>🪄 Client</h3>
-<table>
-  <tr>
-    <td align="center" height="108" width="108">
-      <img
-        src="./assets/felixtanhm-html5.png"
-        width="48"
-        height="48"
-        alt="HTML5"
-      />
-      <br /><strong>HTML5</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="./assets/felixtanhm-css3.png"
-        width="48"
-        height="48"
-        alt="CSS3"
-      />
-      <br /><strong>CSS3</strong>
-    </td>
-        <td align="center" height="108" width="108">
-      <img
-        src="./assets/felixtanhm-tailwind.png"
-        width="48"
-        height="48"
-        alt="Tailwind"
-      />
-      <br /><strong>Tailwind</strong>
-    </td>
-            <td align="center" height="108" width="108">
-      <img
-        src="./assets/felixtanhm-javascript.png"
-        width="48"
-        height="48"
-        alt="Javascript"
-      />
-      <br /><strong>Javascript</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="./assets/felixtanhm-react-js.png"
-        width="48"
-        height="48"
-        alt="React JS"
-      />
-      <br /><strong>React JS</strong>
-    </td>
-  </tr>
-</table>
+### 🪄 Client
 
-<h3>🗃️ Server & Databases</h3>
-<table>
-  <tr>
-    <td align="center" height="108" width="108">
-      <img
-        src="./assets/felixtanhm-node-js.png"
-        width="48"
-        height="48"
-        alt="Node JS"
-      />
-      <br /><strong>Node JS</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="./assets/felixtanhm-express-js.png"
-        width="48"
-        height="48"
-        alt="Express JS"
-      />
-      <br /><strong>Express JS</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="./assets/felixtanhm-mongodb.png"
-        width="48"
-        height="48"
-        alt="MongoDB"
-      />
-      <br /><strong>MongoDB</strong>
-    </td>
-        </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="./assets/felixtanhm-rest-api.png"
-        width="48"
-        height="48"
-        alt="Rest"
-      />
-      <br /><strong>Rest</strong>
-    </td>
-  </tr>
-</table>
+[![Client-Side](https://skillicons.dev/icons?i=html,css,tailwind,js,react&perline=5)](https://skillicons.dev)
 
-<h3>🛠️ Tools</h3>
-<table>
-  <tr>
-    <td align="center" height="108" width="108">
-      <img
-        src="./assets/felixtanhm-git.png"
-        width="48"
-        height="48"
-        alt="Git"
-      />
-      <br /><strong>Git</strong>
-    </td>
-        <td align="center" height="108" width="108">
-      <img
-        src="./assets/felixtanhm-npm.png"
-        width="48"
-        height="48"
-        alt="npm"
-      />
-      <br /><strong>npm</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="./assets/felixtanhm-netlify.png"
-        width="48"
-        height="48"
-        alt="Netlify"
-      />
-      <br /><strong>Netlify</strong>
-    </td>
-      <td align="center" height="108" width="108">
-      <img
-        src="./assets/felixtanhm-webpack.png"
-        width="48"
-        height="48"
-        alt="Webpack"
-      />
-      <br /><strong>Webpack</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="./assets/felixtanhm-vite.png"
-        width="48"
-        height="48"
-        alt="Vite"
-      />
-      <br /><strong>Vite</strong>
-    </td>  
-    </tr>
-    <tr>
-      <td align="center" height="108" width="108">
-        <img
-        src="./assets/felixtanhm-postman.png"
-        width="48"
-        height="48"
-        alt="Postman"
-        />
-      <br /><strong>Postman</strong>
-      </td>
-    </tr>
-</table>
+### 🗃️ Server & Databases
+
+[![Client-Side](https://skillicons.dev/icons?i=nodejs,express,mongodb,c&perline=5)](https://skillicons.dev)
+
+### 🧪 Testing
+
+[![Client-Side](https://skillicons.dev/icons?i=jest,vitest&perline=5)](https://skillicons.dev)
+
+### 🛠️ Tools
+
+[![Client-Side](https://skillicons.dev/icons?i=git,npm,netlify,webpack,vite,postman,vscode&perline=5)](https://skillicons.dev)
 
 ## 📈 Stats
 
