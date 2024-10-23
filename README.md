@@ -14,7 +14,7 @@ In my free time, I enjoy being in the ⛰️ mountains and 🧗 rock climbing.
 
 ### 🗃️ Server & Databases
 
-[![Client-Side](https://skillicons.dev/icons?i=nodejs,express,mongodb,c&perline=5)](https://skillicons.dev)
+[![Client-Side](https://skillicons.dev/icons?i=nodejs,express,c,go,mongodb,postgres,prisma&perline=5)](https://skillicons.dev)
 
 ### 🧪 Testing
 
